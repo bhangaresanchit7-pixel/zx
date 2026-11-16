@@ -1,0 +1,2 @@
+-dontwarn **
+-optimizationpasses 5
