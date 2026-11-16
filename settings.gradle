@@ -1,0 +1,2 @@
+rootProject.name = 'ZX'
+include ':app'
